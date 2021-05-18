@@ -1,1 +1,1 @@
-# spring_boot_rest_api
+# BTS SNIR | 2e année - API REST avec Java & Spring Boot
